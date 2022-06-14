@@ -3,11 +3,11 @@
 ## Description
 
 ALX system engineering devops is part of the foundational curriculum to the *ALX Software Engineering Programme.* The curriculum is project based covering:-
-- shell basic, 
-- shell permissions,
-- shell redirections and filters,
-- shell variables and expansion, 
-and some much more. The projects are meant to give a basic understanding of shell scripting and how to navigate using shell commands in your computer. Basically the curriculum are meant to teach us about Devops and to get an understanding of our systems.
+- shell basic
+- shell permissions
+- shell redirections and filters
+- shell variables and expansion etc
+The projects are meant to give a basic understanding of shell scripting and how to navigate using shell commands in your computer. Basically the curriculum are meant to teach us about Devops and to get an understanding of our systems.
 
 ## Table of Contents
 
