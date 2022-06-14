@@ -19,7 +19,7 @@ Finishing this project gave a basic knowlegde about using shell to create, move,
 - All your scripts should be exactly two lines long ($ wc -l file should print 2)
 - All your files should end with a new line.
 - The first line of all your files should be exactly #!/bin/bash
-- All your scripts must be executable. To make your file executable, use the chmod command: chmod u+x file.
+- All your scripts must be executable. To make your file executable, use the chmod command: ***chmod u+x file.***
 
 ## Tasks
 
