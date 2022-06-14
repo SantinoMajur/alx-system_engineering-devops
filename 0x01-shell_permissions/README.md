@@ -30,7 +30,7 @@ Finishing this project gives a basic knowlegde about giving shell permissions to
 - [Execute](https://github.com/SantinoMajur/alx-system_engineering-devops/blob/master/0x01-shell_permissions/5-execute)
 - [Multiple permissions](https://github.com/SantinoMajur/alx-system_engineering-devops/blob/master/0x01-shell_permissions/6-multiple_permissions)
 - [Everybody!](https://github.com/SantinoMajur/alx-system_engineering-devops/blob/master/0x01-shell_permissions/7-everybody)
-- [James Bond](https://github.com/SantinoMajur/alx-system_engineering-devops/blob/master/0x01-shell_permissions/)8-James_Bond
+- [James Bond](https://github.com/SantinoMajur/alx-system_engineering-devops/blob/master/0x01-shell_permissions/8-James_Bond)
 - [John Doe](https://github.com/SantinoMajur/alx-system_engineering-devops/blob/master/0x01-shell_permissions/9-John_Doe)
 - [Look in the mirror](https://github.com/SantinoMajur/alx-system_engineering-devops/blob/master/0x01-shell_permissions/10-mirror_permissions)
 - [Directories](https://github.com/SantinoMajur/alx-system_engineering-devops/blob/master/0x01-shell_permissions/11-directories_permissions)
